@@ -9,7 +9,7 @@
   
   - file: I.computo_cientifico/1.4/Condicion_de_un_problema_y_estabilidad_de_un_algoritmo
   
-  - file: I.computo_cientifico/1.5/Definicion_de_funcion_derivada_de_una_funcion
+  - file: I.computo_cientifico/1.5/Definicion_de_funcion_continuidad_derivada
   
   - file: I.computo_cientifico/1.6/Polinomios_de_Taylor_y_diferenciacion_numerica
   
@@ -18,3 +18,17 @@
 - chapter: II. Cómputo matricial
   sections:
   - file: II.computo_matricial/2.1/Operaciones_y_transformaciones_basicas_del_Algebra_Lineal_Numerica
+  - file: II.computo_matricial/2.2/Eigenvalores_y_eigenvectores
+  - file: II.computo_matricial/2.3/Algoritmos_y_aplicaciones_de_eigenvalores_eigenvectores_de_una_matriz
+  - file: II.computo_matricial/2.4/Valores_vectores_singulares_y_algoritmos_para_calcular_la_SVD
+  
+- chapter: III. Optimización convexa
+  sections:
+  - file: III.optimizacion_convexa/3.1/Definicion_de_problema_optimizacion_conjuntos_y_funciones_convexas
+  - file: III.optimizacion_convexa/3.2/Algoritmos_de_descenso_y_busqueda_de_linea_en_uco
+  - file: III.optimizacion_convexa/3.3/Ejemplos_problemas_UCO_e_intro_CIEO_y_PI
+  - file: III.optimizacion_convexa/3.4/Ecuaciones_no_lineales
+
+- chapter: IV. Optimización en redes
+  sections:
+  - file: IV.optimizacion_en_redes/4.1/Definiciones_generales_de_flujo_en_redes_y_teoria_de_grafos
